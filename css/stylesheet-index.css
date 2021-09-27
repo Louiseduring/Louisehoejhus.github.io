@@ -1,4 +1,4 @@
-
+<style>
 
 .content {
     max-width: 500px;
@@ -128,3 +128,5 @@ nav a:hover::before {
     line-height: 150%;
     background-color: #495875;
 }
+
+</style>
